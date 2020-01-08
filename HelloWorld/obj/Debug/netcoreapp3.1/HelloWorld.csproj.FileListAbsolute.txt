@@ -1,0 +1,11 @@
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/davidwernery/Desktop/School Files Spring 2020/ACCTMIS 3610/hello-world-dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
